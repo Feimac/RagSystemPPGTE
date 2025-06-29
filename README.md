@@ -1,6 +1,4 @@
-Segue um modelo de **README.md** que você pode adaptar para o seu projeto `RagSystemPPGTE`. Basta criar um arquivo `README.md` na raiz do repositório e colar o conteúdo abaixo, ajustando onde for necessário.
 
-````markdown
 # 📖 RagSystemPPGTE
 
 Um sistema de **RAG (Retrieval-Augmented Generation)** para responder automaticamente perguntas sobre o Regulamento Interno do Programa de Pós-Graduação em Tecnologia e Sociedade (UTFPR), usando Streamlit e embeddings de texto.
